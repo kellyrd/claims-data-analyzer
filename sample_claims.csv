@@ -1,0 +1,6 @@
+claim_id,member_id,amount,status
+1001,501,250.00,Approved
+1002,502,,Pending
+1003,503,175.50,Denied
+1004,,300.00,Approved
+1005,505,400.00,
